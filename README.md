@@ -1,3 +1,13 @@
+ivkm omwt jrzn erek     jenkins
+
+
+
+
+
+
+
+
+
 **# mavenweb
 in order to this jenkins piple line we need to deploy some plugin like 
 1.maven intergration
